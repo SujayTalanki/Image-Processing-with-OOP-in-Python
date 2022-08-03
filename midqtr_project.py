@@ -1,7 +1,5 @@
 """
-DSC 20 Mid-Quarter Project
-Name: Sujay Talanki, Daniel Milton
-PID: A16433981, A15599774
+Name: Sujay Talanki
 """
     
 # Part 1: RGB Image #
